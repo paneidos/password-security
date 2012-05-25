@@ -1,0 +1,11 @@
+Requirements to build:
+* Ruby
+
+Build steps:
+1. bundle install
+2. guard # to compile the coffeescript
+3. rake
+
+To install a compiled version:
+rake install
+
