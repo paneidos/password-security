@@ -1,0 +1,5 @@
+javascripts/*
+!javascripts/.gitkeep
+
+product/*
+!product/.gitkeep
