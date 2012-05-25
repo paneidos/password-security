@@ -16,6 +16,7 @@ end
 task :bootstrap do
   # system "cd javascripts; cp -R *.js ../product/chrome/content/"
   order = [
+    "watch-windows",
     "login-manager",
     "bootstrap"
     ]
